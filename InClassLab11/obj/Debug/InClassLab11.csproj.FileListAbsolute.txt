@@ -1,0 +1,7 @@
+C:\Users\8bitm\source\repos\InClassLab11\InClassLab11\obj\Debug\InClassLab11.csprojAssemblyReference.cache
+C:\Users\8bitm\source\repos\InClassLab11\InClassLab11\obj\Debug\InClassLab11.csproj.CoreCompileInputs.cache
+C:\Users\8bitm\source\repos\InClassLab11\InClassLab11\bin\Debug\InClassLab11.exe.config
+C:\Users\8bitm\source\repos\InClassLab11\InClassLab11\bin\Debug\InClassLab11.exe
+C:\Users\8bitm\source\repos\InClassLab11\InClassLab11\bin\Debug\InClassLab11.pdb
+C:\Users\8bitm\source\repos\InClassLab11\InClassLab11\obj\Debug\InClassLab11.exe
+C:\Users\8bitm\source\repos\InClassLab11\InClassLab11\obj\Debug\InClassLab11.pdb
